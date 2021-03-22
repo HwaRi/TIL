@@ -4,3 +4,4 @@
 #### 생각날 때마다 추가하는 정리할 것들 목록
 - [ ] 마크다운 문법  
 - [ ] regular expression
+- [ ] ORACLE TO_DATE
