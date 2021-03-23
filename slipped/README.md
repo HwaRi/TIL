@@ -5,3 +5,4 @@
 - [ ] 마크다운 문법  
 - [ ] regular expression
 - [ ] ORACLE TO_DATE
+- [ ] vi 자주 쓰는 명령어
