@@ -6,3 +6,5 @@
 - [ ] regular expression
 - [ ] ORACLE TO_DATE
 - [ ] vi 자주 쓰는 명령어
+- [ ] JAVA 자료형 변환 함수 (string -> char ...)
+- [ ] char vs Character, int vs Integer
