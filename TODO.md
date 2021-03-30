@@ -5,6 +5,7 @@
 - [ ] JPA 가 뭘까...
 - [ ] JAVA 6와 8의 차이가 뭐지
 - [ ] Varnish, Redis, Memcached, ehcache
+- [ ] edis Cluster 설정은 뭘까
 #### 공부해보자
 - [ ] Kotlin
 - [ ] Vue.js
